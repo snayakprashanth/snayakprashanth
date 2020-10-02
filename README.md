@@ -1,7 +1,9 @@
 <h2 align='center'> Hi there 👋, I'm Prashanth 👨‍💻</h2>
 <center>
+<code>
   <img src="https://visitor-badge.glitch.me/badge?page_id=snayakprashanth.snayakprashanth" alt="visitors">
   <img src="https://img.shields.io/badge/Updated-Recently-green" alt="Updated">
+</code>
 
   <a class="hover-image" href="https://codepen.io/prashanthnayak" target="_blank" title="Codepen">
     <img src="codepen.png" width="30" alt="codepen">

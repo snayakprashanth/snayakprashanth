@@ -2,10 +2,10 @@
 <center>
   <img src="https://visitor-badge.glitch.me/badge?page_id=snayakprashanth.snayakprashanth" alt="visitors">
 
-  <a class="hover-image" href=" https://codepen.io/prashanthnayak/" target="_blank" title="Codepen">
+  <a class="hover-image" href="https://codepen.io/prashanthnayak" target="_blank" title="Codepen">
     <img src="codepen.png" width="30" alt="codepen">
   </a>
-  <a class="hover-image" href=" https://www.linkedin.com/in/prashanthanayak/" target="_blank" title="Linkedin">
+  <a class="hover-image" href="https://www.linkedin.com/in/prashanthanayak" target="_blank" title="Linkedin">
     <img src="in.png" width="30" alt="linkedin">
   </a>
   <a class="hover-image" href="https://github.com/snayakprashanth" target="_blank" title="Github">
@@ -16,7 +16,7 @@
   </a>
 </center>
 
-I am <i style="color:#ff5722">Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
+I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
 
 - 🔭 I’m currently working on Angular and NodeJs
 - 🌱 I’m currently learning Ionic3 and GraphQl
@@ -40,7 +40,7 @@ I am <i style="color:#ff5722">Full Stack Developer</i> 🏠 from India. Beside's
 <h4> 📊 GitHub Stats:</h4>
 <a href="https://github.com/snayakprashanth/snayakprashanth">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayakprashanth&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&%22"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayakprashanth&title_color=000000&text_color=000000"
     alt="Stat">
 </a>
 

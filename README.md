@@ -4,7 +4,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=snayakprashanth.snayakprashanth" alt="visitors">
     <img src="https://img.shields.io/badge/Updated-Recently-green" alt="Updated">
   </code>
-  <br>
+  <br><br>
 
   <a class="hover-image" href="https://codepen.io/prashanthnayak" target="_blank" title="Codepen">
     <img src="codepen.png" width="30" alt="codepen">
@@ -19,14 +19,13 @@
     <img src="mail.png" width="30" alt="mail">
   </a>
 </center>
-
+<br>
 I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
 
+<h4>🕵🏻‍♂️ Personal Stuffs:</h4>
 - 🔭 I’m currently working on Angular and NodeJs
 - 🌱 I’m currently learning Ionic3 and GraphQl
 - 💬 Ask me about anything
-
-<img src="coding.svg" alt="background" align="right" width="400px">
 
 <h4>👨🏻‍🔧 Languages and Tools:</h4>
 <code>
@@ -38,8 +37,7 @@ I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love tr
   <img src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" alt="Git" height="30">
 </code>
 
-<!-- <h4>🦸🏻‍♀️ Expertise:</h4> -->
-<!-- <h4>🦸🏻‍♀️ Expertise:</h4> -->
+<img src="coding.svg" alt="background" align="right" width="400px">
 
 <h4> 📊 GitHub Stats:</h4>
 <a href="https://github.com/snayakprashanth/snayakprashanth">

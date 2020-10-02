@@ -23,6 +23,7 @@
 I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
 
 <h4>🕵🏻‍♂️ Personal Stuffs:</h4>
+
 - 🔭 I’m currently working on Angular and NodeJs
 - 🌱 I’m currently learning Ionic3 and GraphQL
 - 💬 Ask me about anything

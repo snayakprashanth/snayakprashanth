@@ -22,6 +22,8 @@
 <br>
 I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
 
+<img src="coding.svg" alt="background" align="right" width="350px">
+
 <h4>🕵🏻‍♂️ Personal Stuffs:</h4>
 
 - 🔭 I’m currently working on Angular and NodeJs
@@ -37,8 +39,6 @@ I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love tr
   <img src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" alt="NodeJs" height="30">
   <img src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" alt="Git" height="30">
 </code>
-
-<img src="coding.svg" alt="background" align="right" width="350px">
 
 <!--
 <h4> 📊 GitHub Stats:</h4>

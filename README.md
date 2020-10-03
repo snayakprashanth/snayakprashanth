@@ -15,9 +15,9 @@
   <a class="hover-image" href="https://github.com/snayakprashanth" target="_blank" title="Github">
     <img src="git.png" width="30" alt="github">
   </a>
-  <a class="hover-image" href="mailto:prashanthnayak830@gmail.com?subject=" target="_blank" title="Email">
+<!--  <a class="hover-image" href="mailto:prashanthnayak830@gmail.com?subject=" target="_blank" title="Email">
     <img src="mail.png" width="30" alt="mail">
-  </a>
+  </a> -->
 </center>
 <br>
 I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
@@ -40,13 +40,14 @@ I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love tr
 
 <img src="coding.svg" alt="background" align="right" width="350px">
 
+<!--
 <h4> 📊 GitHub Stats:</h4>
 <a href="https://github.com/snayakprashanth/snayakprashanth">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayakprashanth&title_color=000000&text_color=000000"
     alt="Stat">
 </a>
-
+-->
 <!-- https://github-readme-stats.vercel.app/api?username=snayakprashanth -->
 
 <!--

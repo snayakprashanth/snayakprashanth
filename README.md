@@ -12,17 +12,13 @@
   <a class="hover-image" href="https://www.linkedin.com/in/prashanthanayak" target="_blank" title="Linkedin">
     <img src="in.png" width="30" alt="linkedin">
   </a>
-  <a class="hover-image" href="https://github.com/snayakprashanth" target="_blank" title="Github">
-    <img src="git.png" width="30" alt="github">
-  </a>
 <!--  <a class="hover-image" href="mailto:prashanthnayak830@gmail.com?subject=" target="_blank" title="Email">
     <img src="mail.png" width="30" alt="mail">
   </a> -->
 </center>
 <br>
+<img src="coding.svg" alt="background" align="right" width="300px">
 I am <i>Full Stack Developer</i> 🏠 from India. Beside's programming I love travelling.
-
-<img src="coding.svg" alt="background" align="right" width="350px">
 
 <h4>🕵🏻‍♂️ Personal Stuffs:</h4>
 
